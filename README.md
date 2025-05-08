@@ -6,11 +6,11 @@ The **Avengers** is a series of superhero films produced by *Marvel Studios*. It
 
 ### Main Avengers Team
 - Iron Man (Tony Stark)
--  Captain America (Steve Rogers)
--   Thor
--   Hulk (Bruce Banner)
--   Black Widow (Natasha Romanoff)
--   Hawkeye (Clint Barton)
+- Captain America (Steve Rogers)
+- Thor
+- Hulk (Bruce Banner)
+- Black Widow (Natasha Romanoff)
+- Hawkeye (Clint Barton)
 
 > "If we can't protect the Earth, you can be damn sure we'll avenge it." – Tony Stark
 
